@@ -54,6 +54,6 @@ public:
 int main()
 {
     setlocale(0, "");
-    BinaryTransferToWord::binary_in_word(WordTransferToBinary::word_in_binary("sdfsdfsdf"));
+    BinaryTransferToWord::binary_in_word(WordTransferToBinary::word_in_binary("hhhhhhhhhh"));
     return 0;
 }
