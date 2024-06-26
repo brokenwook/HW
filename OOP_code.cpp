@@ -11,7 +11,7 @@ protected:
 
 std::stack<int> myStack; //это объявление переменной myStack типа std::stack<int>
 
-myStack.push(1); 
+myStack.push(1); // добавляем элемент в стек
 myStack.push(2);
 myStack.push(3);
 
