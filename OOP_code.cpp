@@ -2,12 +2,26 @@
 #include <stack>
 #include <string>
 
-class Point
+class specifier
 {
 public:
 private:
 protected:
 };
+
+std::stack<int> myStack; //это объявление переменной myStack типа std::stack<int>
+
+myStack.push(1); 
+myStack.push(2);
+myStack.push(3);
+
+while (!myStack.empty()) {
+    std::cout << myStack.top() << " "; // Вывод верхнего элемента стека
+    myStack.pop(); // Удаление верхнего элемента
+}
+// Вывод: 3 2 1
+return 0;
+
 
 
 class Cap {
