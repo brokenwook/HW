@@ -175,7 +175,13 @@ int main()
     std::cout << num << std::endl;
 
 
-
+    std::sort() -     
+ std::find() -
+ std::count() -
+ std::max() - 
+ std::min() - 
+ std::reverse() 
+ std::unique()
 
 
 
