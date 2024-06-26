@@ -29,7 +29,7 @@ int main()
 	//if (true);
 	//else;
 	//else if;
-	//switch;
+
 	
 	//for ( int i = 0;  i < 10; i++) {
 		
